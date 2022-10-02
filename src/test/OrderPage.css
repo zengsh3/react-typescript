@@ -1,0 +1,44 @@
+.navigation {
+    width: 800px;
+    height: 80px;
+    text-align: center;
+    /* float: right; */
+    margin: 50px 0 0 200px
+
+  }
+
+  .steps{
+    width:800px;
+    height: 300px;
+    margin: 50px 0 0 200px;
+  }
+  
+  .step1{
+    margin: 50px 200px 0 350px;
+    /* display: none; */
+  }
+  
+  .step2{
+    margin: 50px 200px 0 350px;
+    /* display: none; */
+  }
+  .step3{
+    margin: 50px 200px 0 0px;
+    /* display: none */
+  }
+  .review{
+    /* text-align: center; */
+    margin: 50px 0 0 200px;
+    /* display: none */
+  }
+
+  /* #changeSteps{
+    float:"left";
+    margin:"0 0 0 200px";
+     display:'none'
+  } */
+  .hide{
+    display: none;
+  }
+
+ 
